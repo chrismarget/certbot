@@ -15,5 +15,7 @@ fi
   -e .[dev,docs] \
   -e certbot-apache \
   -e certbot-nginx \
+  -e letsencrypt \
+  -e letsencrypt-apache \
   -e letshelp-certbot \
   -e certbot-compatibility-test
